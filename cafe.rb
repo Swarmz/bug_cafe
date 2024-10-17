@@ -4,7 +4,7 @@ DRINKS = [
   { name: 'コーヒー', price: 300 },
   { name: 'カフェラテ', price: 400 },
   { name: 'チャイ', price: 460 },
-  { name: 'エスプレッソ', price: 400 },
+  { name: 'エスプレッソ', price: 340 },
   { name: '緑茶', price: 450 }
 ].freeze
 
